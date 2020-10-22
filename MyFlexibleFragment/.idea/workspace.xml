@@ -6,7 +6,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3764e2eb-745f-406d-9d2b-84b1fa8549fa" name="Default Changelist" comment="" />
+    <list default="true" id="3764e2eb-745f-406d-9d2b-84b1fa8549fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,9 +131,9 @@
       <screen x="0" y="33" width="1366" height="735" />
     </state>
     <state x="541" y="217" width="278" height="369" key="AndroidCreateXmlResourceDialog/0.33.1366.735@0.33.1366.735" timestamp="1602610969976" />
-    <state x="376" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1602644763963">
+    <state x="376" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1602687813393">
       <screen x="0" y="33" width="1366" height="735" />
     </state>
-    <state x="376" y="229" key="com.intellij.ide.util.TipDialog/0.33.1366.735@0.33.1366.735" timestamp="1602644763963" />
+    <state x="376" y="229" key="com.intellij.ide.util.TipDialog/0.33.1366.735@0.33.1366.735" timestamp="1602687813393" />
   </component>
 </project>
