@@ -9,13 +9,19 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eff0673-3001-4e5c-a297-ca93a492af66" name="Default Changelist" comment="" />
+    <list default="true" id="8eff0673-3001-4e5c-a297-ca93a492af66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BarVolume/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarVolume/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarVolume/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="4bd4152a" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -157,9 +163,9 @@
       <screen x="0" y="33" width="1366" height="735" />
     </state>
     <state x="187" y="36" key="SettingsEditor/0.33.1366.735@0.33.1366.735" timestamp="1602607703887" />
-    <state x="376" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1602607779143">
+    <state x="376" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1602730000769">
       <screen x="0" y="33" width="1366" height="735" />
     </state>
-    <state x="376" y="229" key="com.intellij.ide.util.TipDialog/0.33.1366.735@0.33.1366.735" timestamp="1602607779143" />
+    <state x="376" y="229" key="com.intellij.ide.util.TipDialog/0.33.1366.735@0.33.1366.735" timestamp="1602730000769" />
   </component>
 </project>
