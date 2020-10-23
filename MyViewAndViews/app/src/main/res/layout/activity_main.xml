@@ -6,12 +6,11 @@
     android:layout_height="match_parent"
     android:background="@android:color/white"
     tools:context="com.brondol.myviewandviews.MainActivity">
-
+<!--    BAGIAN ATAS, GAMBAR DITIMPA TEXT-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
-
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -38,7 +37,7 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:textColor="@android:color/white" />
         </FrameLayout>
-
+<!--        BAGIAN TENGAH MENAMPILKAN DETAILS-->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -77,7 +76,7 @@
             android:layout_marginBottom="16dp"
             android:text="@string/specification"
             android:textSize="12sp" />
-
+<!--        BAGIAN 3 MENAMPILKAN SPEC DALAM TABLE-->
         <TableLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
