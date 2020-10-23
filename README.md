@@ -6,7 +6,8 @@ Di dalamnya terdapat materi:
 * [Intent](https://github.com/BrondoL/MobileApp/tree/master/MyIntentApp)
 * [Fragment](https://github.com/BrondoL/MobileApp/tree/master/MyFlexibleFragment)
 * [ListView](https://github.com/BrondoL/MobileApp/tree/master/MyListView)
-
+* [CircleImageView](https://github.com/BrondoL/MobileApp/tree/master/CircleImageView)
+* [ViewsAndViewGroup](https://github.com/BrondoL/MobileApp/tree/master/MyViewAndViews)
 
 ## Don't copy this code without give me the credits, nerd !
 
