@@ -2622,7 +2622,39 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style></file><file path="/home/BrondoL/AndroidStudioProjects/MyViewAndViews/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#6200EE</color><color name="colorPrimaryDark">#3700B3</color><color name="colorAccent">#03DAC5</color></file><file path="/home/BrondoL/AndroidStudioProjects/MyViewAndViews/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">MyViewAndViews</string><string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string><string name="content_specs_display">5.0 inches\n
+    </style><style name="TextSpec.Field">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textColor">@color/colorSubtitle</item>
+    </style><style name="TextContent" parent="@style/TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style><style name="TextSpec">
+        <item name="android:textSize">14sp</item>
+    </style><style name="TextContent.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style><style name="ButtonGeneral" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style><style name="TextSpec.Value">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style><style name="TextContent.Small">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+    </style><style name="TextContent.Subtitle">
+        <item name="android:textColor">@color/colorSubtitle</item>
+        <item name="android:textSize">12sp</item>
+    </style><style name="TextContent.Small.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style></file><file path="/home/BrondoL/AndroidStudioProjects/MyViewAndViews/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#607D8B</color><color name="colorPrimaryDark">#455A64</color><color name="colorAccent">#FF5722</color><color name="colorSubtitle">#757575</color></file><file path="/home/BrondoL/AndroidStudioProjects/MyViewAndViews/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">MyViewAndViews</string><string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string><string name="content_specs_display">5.0 inches\n
         FHD AMOLED at 441ppi\n
         2.5D Corning® Gorilla® Glass 4</string><string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string><string name="content_specs_battery">2,770 mAh battery\n
         Standby time (LTE): up to 19 days\n
