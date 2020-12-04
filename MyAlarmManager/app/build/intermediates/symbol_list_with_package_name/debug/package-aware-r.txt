@@ -891,9 +891,12 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_cancel_repeating_alarm
 id btn_once_date
 id btn_once_time
+id btn_repeating_time
 id btn_set_once_alarm
+id btn_set_repeating_alarm
 id buttonPanel
 id cache_measures
 id center
@@ -932,6 +935,7 @@ id easeInOut
 id easeOut
 id edit_query
 id edt_once_message
+id edt_repeating_message
 id end
 id expand_activities_button
 id expanded_menu
@@ -1058,6 +1062,7 @@ id transitionToStart
 id triangle
 id tv_once_date
 id tv_once_time
+id tv_repeating_time
 id unchecked
 id uniform
 id up
