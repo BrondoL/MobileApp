@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ImageButton  btnRepeatingTime;
     Button btnSetRepeating;
 
+    Button btnCancelRepeating;
+
     private AlarmReceiver alarmReceiver;
 
     @Override
@@ -52,6 +54,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         btnRepeatingTime.setOnClickListener(this);
         btnSetRepeating.setOnClickListener(this);
+
+        btnCancelRepeating = findViewById(R.id.btn_cancel_repeating_alarm);
+        btnCancelRepeating.setOnClickListener(this);
 
         alarmReceiver = new AlarmReceiver();
     }
@@ -91,6 +96,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 alarmReceiver.setRepeatingAlarm(this, AlarmReceiver.TYPE_REPEATING,
                         repeatTime, repeatMessage);
                 break;
+            case R.id.btn_cancel_repeating_alarm:
+                alarmReceiver.cancelAlarm(this, AlarmReceiver.TYPE_REPEATING);
+                break;
         }
     }
 
@@ -107,7 +115,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Calendar calendar = Calendar.getInstance();
         calendar.set(Calendar.HOUR_OF_DAY, hourOfDay);
         calendar.set(Calendar.MINUTE, minute);
+
         SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm", Locale.getDefault());
+
         switch (tag) {
             case TIME_PICKER_ONCE_TAG:
                 tvOnceTime.setText(dateFormat.format(calendar.getTime()));
