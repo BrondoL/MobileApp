@@ -11,6 +11,10 @@
       <change beforePath="$PROJECT_DIR$/../MyAlarmManager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyAlarmManager/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyAlarmManager/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyAlarmManager/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyAlarmManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyAlarmManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
@@ -24,7 +28,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="4bd4152a" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />

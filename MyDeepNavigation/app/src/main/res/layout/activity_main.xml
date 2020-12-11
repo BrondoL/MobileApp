@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="horizontal"
-    tools:context="com.dicoding.picodiploma.mydeepnavigation.MainActivity">
+    tools:context="com.brondol.mydeepnavigation.MainActivity">
     <Button
         android:id="@+id/btn_open_detail"
         android:layout_width="match_parent"
